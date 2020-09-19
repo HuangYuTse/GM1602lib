@@ -3,6 +3,12 @@ This driver is for the [GM1602-CO Sensor](GM1602-CO%20datasheet.pdf)
 
 <img src="GM1602_3.jpg" width="30%" height="30%">
 
+## Getting started
+
+download ZIP and import by Arduino IDE
+
+You can run example file then you will know how to use it
+
 ## GM1602
 This precision sensor from Honeywell is the best sensing solution for measuring CO gas.
 
