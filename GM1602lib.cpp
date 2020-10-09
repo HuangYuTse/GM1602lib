@@ -1,9 +1,3 @@
-/*
-  Morse.cpp - Library for flashing Morse code.
-  Created by David A. Mellis, November 2, 2007.
-  Released into the public domain.
-*/
-
 #include "GM1602lib.h"
 
 GM1602::GM1602(int pin,int voltage)
